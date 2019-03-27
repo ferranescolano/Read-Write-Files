@@ -1,0 +1,5 @@
+ferran,escolano arpa,DAM2T2,f,20
+Ferran,Escolano Arpa,dam2t2,m,20
+ferra,escolano,daw1m,m,20
+Ferran,Escolano Arpa,dam2t2,m,20
+Laia,Escolano,DAM2t2,f,14
